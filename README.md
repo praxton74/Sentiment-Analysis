@@ -23,17 +23,17 @@ Many emotion detection systems use lexicons (i.e. lists of words and the emotion
 
 One of the downsides of using lexicons is that people express emotions in different ways. Some words that typically express anger, like bad or kill (e.g. your product is so bad or your customer support is killing me) might also express happiness (e.g. this is bad ass or you are killing it).
 
-Aspect-based Sentiment Analysis
+# Aspect-based Sentiment Analysis
 Usually, when analyzing sentiments of texts you’ll want to know which particular aspects or features people are mentioning in a positive, neutral, or negative way.
 
 That's where aspect-based sentiment analysis can help, for example in this product review: "The battery life of this camera is too short", an aspect-based classifier would be able to determine that the sentence expresses a negative opinion about the battery life of the product in question.
 
-Multilingual sentiment analysis
+# Multilingual sentiment analysis
 Multilingual sentiment analysis can be difficult. It involves a lot of preprocessing and resources. Most of these resources are available online (e.g. sentiment lexicons), while others need to be created (e.g. translated corpora or noise detection algorithms), but you’ll need to know how to code to use them.
 
 Alternatively, you could detect language in texts automatically with a language classifier, then train a custom sentiment analysis model to classify texts in the language of your choice.
 
-Why Is Sentiment Analysis Important?
+# Why Is Sentiment Analysis Important?
 Since humans express their thoughts and feelings more openly than ever before, sentiment analysis is fast becoming an essential tool to monitor and understand sentiment in all types of data.
 
 Automatically analyzing customer feedback, such as opinions in survey responses and social media conversations, allows brands to learn what makes customers happy or frustrated, so that they can tailor products and services to meet their customers’ needs.
@@ -44,13 +44,13 @@ Maybe you want to track brand sentiment so you can detect disgruntled customers 
 
 The overall benefits of sentiment analysis include:
 
-Sorting Data at Scale
+# Sorting Data at Scale
 Can you imagine manually sorting through thousands of tweets, customer support conversations, or surveys? There’s just too much business data to process manually. Sentiment analysis helps businesses process huge amounts of unstructured data in an efficient and cost-effective way.
 
-Real-Time Analysis
+# Real-Time Analysis
 Sentiment analysis can identify critical issues in real-time, for example is a PR crisis on social media escalating? Is an angry customer about to churn? Sentiment analysis models can help you immediately identify these kinds of situations, so you can take action right away.
 
-Consistent criteria
+# Consistent criteria
 It’s estimated that people only agree around 60-65% of the time when determining the sentiment of a particular text. Tagging text by sentiment is highly subjective, influenced by personal experiences, thoughts, and beliefs.
 
 By using a centralized sentiment analysis system, companies can apply the same criteria to all of their data, helping them improve accuracy and gain better insights.
