@@ -54,7 +54,3 @@ Consistent criteria
 It’s estimated that people only agree around 60-65% of the time when determining the sentiment of a particular text. Tagging text by sentiment is highly subjective, influenced by personal experiences, thoughts, and beliefs.
 
 By using a centralized sentiment analysis system, companies can apply the same criteria to all of their data, helping them improve accuracy and gain better insights.
-
-The applications of sentiment analysis are endless. So, to help you understand how sentiment analysis could benefit your business, let’s take a look at some examples of texts that you could analyze using sentiment analysis.
-
-Then, we’ll jump into a real-world example of how Chewy, a pet supplies company, was able to gain a much more nuanced (and useful!) understanding of their reviews through the application of sentiment analysis.
