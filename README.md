@@ -16,7 +16,6 @@ This is usually referred to as graded or fine-grained sentiment analysis, and co
 
 Very Positive = 5 stars
 Very Negative = 1 star
-Emotion detection
 Emotion detection sentiment analysis allows you to go beyond polarity to detect emotions, like happiness, frustration, anger, and sadness.
 
 Many emotion detection systems use lexicons (i.e. lists of words and the emotions they convey) or complex machine learning algorithms.
